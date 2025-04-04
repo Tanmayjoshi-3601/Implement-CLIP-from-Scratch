@@ -61,7 +61,12 @@ pip install transformers
 pip install pillow numpy
 pip install vit-pytorch  # Or your specific ViT implementation
 
+```
+## Citation
 
+If you use this implementation in your research, please cite the original CLIP paper:
+
+```bibtex
 @article{radford2021learning,
   title={Learning Transferable Visual Models From Natural Language Supervision},
   author={Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and others},
