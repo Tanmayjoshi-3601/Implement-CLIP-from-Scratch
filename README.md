@@ -62,6 +62,9 @@ pip install pillow numpy
 pip install vit-pytorch  # Or your specific ViT implementation
 
 ```
+
+
+# Link to the research paper: https://arxiv.org/abs/2103.00020
 ## Citation
 
 If you use this implementation in your research, please cite the original CLIP paper:
